@@ -35,10 +35,8 @@
  
 - 博士名额数量: 2名。
  
-- 发放的实习offer数量: 2个。
- 
 - 发放的博士offer数量: 2个。
  
-- 博士offer强度: 铁offer。即等额发放实习offer和博士offer。
+- 博士offer强度: 铁offer。即等额发放博士offer。
  
 - 不养鱼，不当鱼。
